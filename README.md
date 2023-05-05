@@ -7,8 +7,8 @@ Elective modules provide apprentices with the opportunity to delve more deeply i
 For the Cyber Literacy Elective, apprentices will learn about the OWASP Top 10 Web Application Security Risks through application based learning of hacking the OWASP Juice Shop. Apprentices will learn how to better secure applications and be able to identify common web security vulnerabilities in applications. At the end of the program, apprentices will construct 2 projects. First, they will create a short technical presentation that educates their peers on one of OWASP Top 10. Second, they will select a portfolio project and create and apply the skills they have learned in order to create a more secure version of the application.
 
 The second half of this module provides an overview of core computer science concepts of:
--  Stacks and Queues
--  Linked Lists and Double Linked Lists
+- Stacks and Queues
+- Linked Lists and Double Linked Lists
 - Big O
 - Binary search trees. 
 After learning this content, apprentices will practice technical interviews that require them to apply these core CS concepts to a scenario they may encounter as they interview for future jobs.

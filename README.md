@@ -22,7 +22,7 @@ This repository contains all of the materials for the Cyber Literacy Elective Mo
 - **Week 4**: Cryptographic Failures
 - **Week 5**: Insecure Design and Brute Force Attacks
 - **Week 6**: Identification and Authentication Failures, Phishing, and DDoS Attacks
-Week 7: Project and Stacks and Queues
-Week 8: Group Project, Linked Lists, and Big O
+- **Week 7**: Project and Stacks and Queues
+- **Week 8**: Group Project, Linked Lists, and Big O
 - **Week 9**: Group Project and Binary Search Trees
 - **Weeks 10**: Final Project Presentations
